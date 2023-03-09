@@ -1,7 +1,10 @@
-<h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Gustavo Escocard.</h1>
+<h1 align="center"> Hello!👋 I'm Gustavo Escocard.</h1>
 <h3 align="center"> A Web Developer in ascension 👨‍💻</h3>
 
-- 🌱 I’m currently learning ![Rails Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+- 🌱 I’m currently studying
+![Rails Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![React Badge](https://github.com/aleen42/badges/raw/master/src/react.svg)
+![Javascript Badge](https://github.com/aleen42/badges/raw/master/src/javascript.svg)
 - 💬 Ask me about Programming and Tech Stuff
 - ⚡ Fun fact: It's all 0's and 1's
 - 📫 How to reach me:
