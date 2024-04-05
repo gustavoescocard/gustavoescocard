@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently studying
 ![Rails Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![React Badge](https://github.com/aleen42/badges/raw/master/src/react.svg)
-![Javascript Badge](https://github.com/aleen42/badges/raw/master/src/javascript.svg)
+![Javascript Badge](https://img.shields.io/badge/javascript-gray?logo=javascript)
 - 💬 Ask me about Programming and Tech Stuff
 - ⚡ Fun fact: It's all 0's and 1's
 - 📫 How to reach me:
